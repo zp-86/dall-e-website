@@ -1,0 +1,16 @@
+h1 {
+    padding-left: 10px;
+    padding-top: 5px;
+}
+html {
+    background-color: #343a3f !important;
+}
+body {
+    background-color: #343a3f !important;
+    color: #FFFFFF !important;
+    overflow-x: hidden;
+}
+    .custom-form {
+        width: 200%;
+        margin: 0 auto;
+    }
