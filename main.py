@@ -21,4 +21,4 @@ def index(img1=None, img2=None):
     return render_template('index.html', img1=img1, img2=img2)
 
 
-app.run(debug=True)
+app.run()
